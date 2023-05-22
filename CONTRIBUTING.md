@@ -1,8 +1,6 @@
-# Contributing to [
-Python-exploratory-data-analysis
-]
+# Contributing to [Python-exploratory-data-analysis]
 
-Welcome to [Python-exploratory-data-analysis]! I appreciate your interest in contributing to my project. 
+Welcome to Python-exploratory-data-analysis. I appreciate your interest in contributing to my project. 
 
 ## How to Contribute
 
@@ -25,6 +23,6 @@ To contribute to the project, please follow these steps:
 ## Coding Standards
 Please follow these coding standards when contributing to the project:
 
-Use consistent indentation (spaces or tabs) for readability.
-Write clear and concise code and comments.
-Follow naming conventions for variables, functions, and classes.
+- Use consistent indentation (spaces or tabs) for readability.
+- Write clear and concise code and comments.
+- Follow naming conventions for variables, functions, and classes.
