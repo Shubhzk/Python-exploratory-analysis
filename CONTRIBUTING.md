@@ -9,7 +9,7 @@ To contribute to the project, please follow these steps:
 1. Fork the repository to your own GitHub account.
 2. Clone the repository from your account to your local machine.
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/shubhamkulal/Python-exploratory-data-analysis.git
 3. Create a new branch to work on your feature or bug fix
 4. Make your changes and improvements in the codebase.
 5. Test your changes to ensure they work as intended.
